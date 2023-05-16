@@ -2,7 +2,7 @@
 
 相逢便是缘分。笨人无才无能，恳请佬带飞（）
 
-![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&show_icons=true&count_private=true&theme=gotham)
+![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&layout=compact&hide_border=true&langs_count=10)
 <!--
 **Ethylene9160/Ethylene9160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
