@@ -3,6 +3,10 @@
 相逢便是缘分。笨人无才无能，恳请佬带飞（）
 
 ![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&layout=compact&hide_border=true&langs_count=10)
+
+[![Ethy9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethy9160&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Ethylene9160/Ethylene9160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
