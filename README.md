@@ -4,8 +4,10 @@
 
 ![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&layout=compact&hide_border=true&langs_count=10)
 
-[![Ethy9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethylene9160&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethy9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethylene9160&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on the classical feedback controlling. 
+- 🌱 I’m currently learning the basic principle of machine learning.
 
 <!--
 **Ethylene9160/Ethylene9160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
