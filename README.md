@@ -2,7 +2,7 @@
 
 相逢便是缘分。笨人无才无能，恳请佬带飞（）
 
-![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&layout=pie&hide_border=true&langs_count=10)
+![Ethy9160's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ethylene9160&layout=compact&hide_border=true&langs_count=10)
 
 [![Ethy9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethylene9160&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
