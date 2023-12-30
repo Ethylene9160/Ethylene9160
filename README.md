@@ -9,6 +9,15 @@
 - 🔭 I’m currently working on the classical feedback controlling. 
 - 🌱 I’m currently learning the basic principle of machine learning.
 
+Honors
+
+<p align = 'center'><font color = 'red'>Glad News</font></p>
+<p align = 'center'><font color = 'red'>喜 报/font></p>
+
+Congratulations to the owner of this repo for winning the **first place** of SUSTech CPC Competition **participation Award**.(Guess who is the joker)
+
+祝贺本仓库所有者在SUSTech CPC中荣获**参与第一名**！（幽默小丑）
+
 <!--
 **Ethylene9160/Ethylene9160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
