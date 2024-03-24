@@ -6,6 +6,7 @@
 
 [![Ethy9160's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethylene9160&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+
 - 🔭 I’m currently working on the classical feedback controlling. 
 - 🌱 I’m currently learning the basic principle of machine learning.
 
@@ -36,3 +37,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+更多请关注：[Ethy9160.site](https://ethy9160.site)
+
+See more: [Ethy9160.site](https://ethy9160.site)
